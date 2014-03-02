@@ -12,3 +12,5 @@ add text
 
 bbb
 khjfdsask
+
+マスターで編集
